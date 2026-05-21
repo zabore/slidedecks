@@ -22,4 +22,3 @@ A repository of slides from talks I have given. More recent talks on R topics ca
 * 2018, Eastern North American Region of the IBS Meeting: 2018-ENAR-Zabor.pdf
 * 2017, Joint Statistical Meetings: 2017-JSM-Zabor.pdf
 * 2016, Molecular Pathological Epidemiology Meeting: 2016-MPE-Zabor.pdf
-
