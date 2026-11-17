@@ -4,6 +4,9 @@ A repository of slides from talks I have given. More recent talks on R topics ca
 
 ## File log
 
+* 2026, University of Minnesota Seminar: 2026-UMN-Zabor.pdf
+* 2026, Women in Statistics and Data Science: 2026-WSDS-Zabor.pdf
+* 2026, Joint Statistical Meeting: 2026-JSM-Zabor.pdf
 * 2025, Western North American Region of the International Biometric Society: 2025-WNAR-Zabor.pdf
 * 2025, Ohio Ocular Oncology Symposium: 2025-OOOS-Zabor.pdf
 * 2023, Ohio Ocular Oncology Symposium: 2023-OOOS-Zabor.pdf
